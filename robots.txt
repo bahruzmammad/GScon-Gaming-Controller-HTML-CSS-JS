@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gscon-gaming-controller-html-css-js.pages.dev/sitemap.xml
